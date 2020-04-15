@@ -1,1 +1,1 @@
-<div class="content" itemprop="softwareVersion">1.1</div>
+<div class="content" itemprop="softwareVersion">1.0.1</div>
